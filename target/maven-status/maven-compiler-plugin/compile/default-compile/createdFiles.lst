@@ -1,5 +1,6 @@
-jp\te4a\spring\boot\myapp6\mybootapp6\HelloController.class
-jp\te4a\spring\boot\myapp6\mybootapp6\Mybootapp6Application.class
-jp\te4a\spring\boot\myapp6\mybootapp6\BookRepository.class
-jp\te4a\spring\boot\myapp6\mybootapp6\BookService.class
-jp\te4a\spring\boot\myapp6\mybootapp6\BookBean.class
+jp\te4a\spring\boot\mybootapp9\BookController.class
+jp\te4a\spring\boot\mybootapp9\BookRepository.class
+jp\te4a\spring\boot\mybootapp9\BookForm.class
+jp\te4a\spring\boot\mybootapp9\BookApplication.class
+jp\te4a\spring\boot\mybootapp9\BookBean.class
+jp\te4a\spring\boot\mybootapp9\BookService.class
