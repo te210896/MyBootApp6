@@ -1,6 +1,6 @@
-jp\te4a\spring\boot\mybootapp9\BookController.class
-jp\te4a\spring\boot\mybootapp9\BookRepository.class
-jp\te4a\spring\boot\mybootapp9\BookForm.class
-jp\te4a\spring\boot\mybootapp9\BookApplication.class
-jp\te4a\spring\boot\mybootapp9\BookBean.class
-jp\te4a\spring\boot\mybootapp9\BookService.class
+jp\te4a\spring\boot\mybootapp10\BookApplication.class
+jp\te4a\spring\boot\mybootapp10\BookBean.class
+jp\te4a\spring\boot\mybootapp10\BookRepository.class
+jp\te4a\spring\boot\mybootapp10\BookForm.class
+jp\te4a\spring\boot\mybootapp10\BookService.class
+jp\te4a\spring\boot\mybootapp10\BookController.class

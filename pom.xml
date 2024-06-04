@@ -8,9 +8,9 @@
         <version>3.2.5</version>
         <relativePath/> <!-- lookup parent from repository -->
     </parent>
-    <groupId>jp.te4a.spring.boot.mybootapp9</groupId>
-    <artifactId>mybootapp9</artifactId>
-    <name>mybootapp9</name>
+    <groupId>jp.te4a.spring.boot.mybootapp10</groupId>
+    <artifactId>mybootapp10</artifactId>
+    <name>mybootapp10</name>
     <version>0.0.1-SNAPSHOT</version>
     <packaging>jar</packaging>
     <description>Demo project for Spring Boot</description>
@@ -49,6 +49,17 @@
             <groupId>com.h2database</groupId>
             <artifactId>h2</artifactId>
             <scope>runtime</scope>
+        </dependency>
+
+        <!-- https://mvnrepository.com/artifact/mysql/mysql-connector-java -->
+        <dependency>
+            <groupId>com.mysql</groupId>
+            <artifactId>mysql-connector-j</artifactId>
+            <version>8.0.33</version>
+        </dependency>
+        <dependency>
+            <groupId>org.springframework.boot</groupId>
+            <artifactId>spring-boot-starter-jdbc</artifactId>
         </dependency>
     </dependencies>
  
