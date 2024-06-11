@@ -4,11 +4,12 @@
         <meta charset="UTF-8" />
         <title>書籍一覧画面</title>
         <link rel="stylesheet" type="text/css" href="../static/css/style.css" th:href="@{/css/style.css}" />
+        <link rel="stylesheet" type="text/css" th:href="@{/webjars/bootstrap/5.3.3/css/bootstrap.min.css}" />
     </head>
     </head>
     <body>
         <form th:action="@{/books/create}" th:object="${bookForm}" method="post">
-            <table>
+            <table class="table table-striped talbe-bordered table-sm">
                 <tr>
                     <td>タイトル:</td>
                     <td>
@@ -38,7 +39,7 @@
             <input type="submit" name="form" value="create"/>
         </form>
         <hr />
-        <table>
+        <table class="table table-striped talbe-bordered table-sm">
             <tr th:each="book:${books}">
                 <td th:text="${book.id}">100</td>
                 <td th:text="${book.title}">タイトルA</td>
